@@ -42,7 +42,7 @@ label_title = Label(right_frame, text="Mot de passe", font=("Helvetica", 20), bg
 label_title.pack()
 
 #créer un chapm/input
-password_entry = Entry(right_frame, font=("Gothic", 20), bg="#4065A4", fg="white")
+password_entry = Entry(right_frame, font=("Gothic", 20), bg="#495D6D", fg="white")
 password_entry.pack()
 
 #créer un bouton.
